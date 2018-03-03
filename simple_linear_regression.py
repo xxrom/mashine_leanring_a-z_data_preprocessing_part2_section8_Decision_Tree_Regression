@@ -1,5 +1,7 @@
 # Simple Linear Regression
 
+# обычная линия, для уравнения y = c + b*x
+
 # Importing the libraries
 import numpy as np
 import matplotlib.pyplot as plt
